@@ -15,6 +15,6 @@
 (defn -main []
   (hello "Ralph")
   (fetch "https://thaumas.net/")
-  )
+)
 
 (-main)
